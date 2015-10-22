@@ -1,8 +1,0 @@
-makeMap image(seed, modifierData){
-    mapImage = generate(seed);
-    mapImage = modify(mapImage, modifierData);
-    return mapImage;
-}
-generateMap(seed){
-    
-}
